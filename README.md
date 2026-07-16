@@ -32,6 +32,7 @@ git checkout -b branch-1 -create a new branch
 git checkout main - switch between branches  
 git branch - show all available branches and specify the current branch  
 git reset -undoing in git
+git rest HEAD~1 -undo last commit
 
 
 ## New Branch is Created!
