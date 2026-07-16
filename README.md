@@ -33,4 +33,5 @@ git checkout main - switch between branches
 git branch - show all available branches and specify the current branch
 
 
-## Branch 2 is Created!
+## Branch 3 is Created!
+#### Its about merging conflicts
