@@ -1,0 +1,91 @@
+commit 5a909463a368c9162a19147c49cc06356f39140e
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 16:17:52 2026 +0530
+
+    Added a line to README.md
+
+commit de4e3714ef5456820303d0beafc11cd706d26075
+Merge: cbf7184 9294740
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 16:01:22 2026 +0530
+
+    Merge branch 'main' of github.com:Shammi2002/Learn-Git
+
+commit cbf7184f07813bb1f6e5ed9cdafaeefc0d133275
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 15:59:27 2026 +0530
+
+    Updated main  index.html
+
+commit 9294740908dba2c9933491156f97e62cb62a18b3
+Merge: f19d737 ee3f1b7
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 15:34:34 2026 +0530
+
+    Merge pull request #2 from Shammi2002/feature/1
+    
+    Updated feature/1 README.md
+
+commit ee3f1b72ac62feb99e961965da940a0153d5403b
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 15:20:53 2026 +0530
+
+    Updated feature/1 README.md
+
+commit f19d737292c1090433a16b47690cdf66c9b6ec58
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 14:15:12 2026 +0530
+
+    Fix formatting and spacing in README.md
+
+commit 94c1bd48dac51e43d3ce6d6ce10a6b322fc2d0b7
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 14:14:07 2026 +0530
+
+    Update README.md
+
+commit fe1249348f927b134c70181fc2cdb02e6df8c1c2
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 13:35:37 2026 +0530
+
+    Update README.md
+
+commit 1b4206e451ee643faa51971500da62ac33e507dd
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 11:53:56 2026 +0530
+
+    modified README.md
+
+commit a6e3d1f30ad58bc42fcd94b3ba9544b7c4f4d7af
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 11:49:27 2026 +0530
+
+    Refactor README for better clarity and formatting
+    
+    Updated README.md to improve formatting and clarity of Git commands and SSH setup instructions.
+
+commit 082786c4f95c30f916396e0fea01d4ec2aa09f2c
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 11:31:55 2026 +0530
+
+    Update README.md
+
+commit f761bff6d594b37714a738ae9529c254fae2f83e
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 11:30:24 2026 +0530
+
+    modified README.md
+
+commit a02254c27621e5ab2f37d474d442a3a0df0e69d2
+Author: Rashmi Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 11:18:34 2026 +0530
+
+    Added index.html
+    
+    Create a new file to track using git
+
+commit fb1ddc4d22e38c89c262bfad49cb7dac1c31f9ac
+Author: T.M.S.S.Thennakoon <thennakoon.sstm@gmail.com>
+Date:   Thu Jul 16 09:48:16 2026 +0530
+
+    Add README with project description
