@@ -25,6 +25,7 @@ git config user.email "emailaddress" >>to set the identity only in this reposito
 git config --global user.email "emailaddress"  
 git push - upload git commits to remote repository :)  
 git init - create a local folder initialising it as a githubrepo
-git pull - importing changes from the remote repo   
+git pull - importing changes from the remote repo  
+git remote add origin SSH_KEY - connecting locally created repo with online repo
 
   
