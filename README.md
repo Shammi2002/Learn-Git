@@ -33,4 +33,4 @@ git checkout main - switch between branches
 git branch - show all available branches and specify the current branch
 
 
-## New Branch is Created!
+## Branch 2 is Created!
