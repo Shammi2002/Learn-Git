@@ -27,5 +27,7 @@ git push - upload git commits to remote repository :)
 git init - create a local folder initialising it as a githubrepo
 git pull - importing changes from the remote repo  
 git remote add origin SSH_KEY - connecting locally created repo with online repo
-
-  
+get remote -v -show any repo that remotely connected  
+git checkout -b branch-1 -create a new branch
+git checkout main - switch between branches
+git branch - show all available branches and specify the current branch
