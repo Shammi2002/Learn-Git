@@ -30,7 +30,8 @@ git remote add origin SSH_KEY - connecting locally created repo with online repo
 git remote -v -show any repo that remotely connected  
 git checkout -b branch-1 -create a new branch  
 git checkout main - switch between branches  
-git branch - show all available branches and specify the current branch
+git branch - show all available branches and specify the current branch  
+git reset -undoing in git
 
 
 ## New Branch is Created!
