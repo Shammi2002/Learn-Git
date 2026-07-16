@@ -17,7 +17,7 @@ Reference youtube video :https://www.youtube.com/watch?v=RGOj5yH7evk&t=317s
    on windows vscode/powershell: Get-ChildItem -Force  
    on macos : ls -la  
   
-### 3.Basic git commands  
+### 3.Basic git commands worked on
 git status - check status of the git  
 git add .  - allow all availble files to track by git  
 git commit -m "message1" -m "message2" -save filesin git  
