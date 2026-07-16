@@ -24,6 +24,7 @@ git commit -m "message1" -m "message2" -save filesin git
 git config user.email "emailaddress" >>to set the identity only in this repository  
 git config --global user.email "emailaddress"  
 git push - upload git commits to remote repository :)  
-git init - create a local folder initialising it as a github repo   
+git init - create a local folder initialising it as a githubrepo
+git pull - importing changes from the remote repo   
 
   
